@@ -1,32 +1,39 @@
 === Redirect WP Author ===
-Contributors: VirtualOx B.V.
-Tags: author, redirect, homepage, 301, 302
-Requires at least: 6.3
-Tested up to: 6.3
-Stable tag: trunk
-License: GNU General Public License v3.0
+Contributors: virtualox
+Tags: author, redirect, security
+Requires at least: 4.9
+Tested up to: 6.7
+Stable tag: 1.1.0
+License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
-
-Redirect WP Author redirects author pages to the homepage.
-
+Redirects WordPress author pages to the homepage with configurable redirect type.
 == Description ==
+Redirect WP Author is a simple plugin that redirects all author pages to the homepage. This can be useful for security purposes or if you don't want to expose author information on your site.
+Features:
 
-Redirect WP Author is a lightweight WordPress plugin that redirects author pages to the homepage. This ensures users can't access the author archive page, providing more control over how authorship is displayed on your website.
-
-Once activated, the plugin will redirect all author page requests to the website's homepage. The plugin operates seamlessly without requiring any configurations.
+Redirects all author pages to the homepage
+Configurable redirect type (301 permanent or 302 temporary)
+Removes author links from the admin area
+Overrides author links in the frontend
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/redirect-wp-author` directory, or install the plugin through the WordPress plugins screen directly.
-2. Activate the plugin through the 'Plugins' screen in WordPress
+Upload the redirect-wp-author folder to the /wp-content/plugins/ directory
+Activate the plugin through the 'Plugins' menu in WordPress
+Configure the plugin settings under 'Settings > Redirect WP Author'
 
 == Frequently Asked Questions ==
-
-= Can I change the plugin's configuration settings? =
-
-The plugin does not require any kind of configuration. Author pages will be redirected as soon as the plugin is activated.
-
+= Why should I redirect author pages? =
+Redirecting author pages can improve security by making it harder for attackers to enumerate users on your WordPress site.
+= What's the difference between 301 and 302 redirects? =
+A 301 redirect is permanent and tells search engines that the page has moved permanently. A 302 redirect is temporary and indicates the page is temporarily moved. For SEO purposes, 301 is usually preferred.
 == Changelog ==
+= 1.1.0 =
+
+Added settings page to configure redirect type (301 or 302)
+Improved code organization
+Added translation support
 
 = 1.0.0 =
-* Initial release. Redirects all author pages to the homepage.
+
+Initial release
