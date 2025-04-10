@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redirect WP Author 1.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/virtualox/redirect-wp-author\n"
+"POT-Creation-Date: 2025-04-10 12:00+0000\n"
+"PO-Revision-Date: 2025-04-10 12:00+0000\n"
+"Last-Translator: VirtualOx B.V.\n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: redirect-wp-author.php:97
+msgid "Settings"
+msgstr "Instellingen"
+
+#: includes/class-settings.php:26
+msgid "Redirect WP Author Settings"
+msgstr "Redirect WP Author Instellingen"
+
+#: includes/class-settings.php:27
+msgid "Redirect WP Author"
+msgstr "Redirect WP Author"
+
+#: includes/class-settings.php:53
+msgid "Redirect Settings"
+msgstr "Omleidingsinstellingen"
+
+#: includes/class-settings.php:60
+msgid "Redirect Type"
+msgstr "Soort omleiding"
+
+#: includes/class-settings.php:91
+msgid "Configure the settings for the Redirect WP Author plugin."
+msgstr "Configureer de instellingen voor de Redirect WP Author plugin."
+
+#: includes/class-settings.php:101
+msgid "301 - Permanent Redirect"
+msgstr "301 - Permanente omleiding"
+
+#: includes/class-settings.php:102
+msgid "302 - Temporary Redirect"
+msgstr "302 - Tijdelijke omleiding"
+
+#: includes/class-settings.php:105
+msgid "301 redirects are permanent and better for SEO. 302 redirects are temporary."
+msgstr "301 omleidingen zijn permanent en beter voor SEO. 302 omleidingen zijn tijdelijk."

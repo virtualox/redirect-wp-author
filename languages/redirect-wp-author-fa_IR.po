@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redirect WP Author 1.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/virtualox/redirect-wp-author\n"
+"POT-Creation-Date: 2025-04-10 12:00+0000\n"
+"PO-Revision-Date: 2025-04-10 12:00+0000\n"
+"Last-Translator: VirtualOx B.V.\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: redirect-wp-author.php:97
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: includes/class-settings.php:26
+msgid "Redirect WP Author Settings"
+msgstr "تنظیمات Redirect WP Author"
+
+#: includes/class-settings.php:27
+msgid "Redirect WP Author"
+msgstr "Redirect WP Author"
+
+#: includes/class-settings.php:53
+msgid "Redirect Settings"
+msgstr "تنظیمات تغییر مسیر"
+
+#: includes/class-settings.php:60
+msgid "Redirect Type"
+msgstr "نوع تغییر مسیر"
+
+#: includes/class-settings.php:91
+msgid "Configure the settings for the Redirect WP Author plugin."
+msgstr "تنظیمات افزونه Redirect WP Author را پیکربندی کنید."
+
+#: includes/class-settings.php:101
+msgid "301 - Permanent Redirect"
+msgstr "301 - تغییر مسیر دائمی"
+
+#: includes/class-settings.php:102
+msgid "302 - Temporary Redirect"
+msgstr "302 - تغییر مسیر موقت"
+
+#: includes/class-settings.php:105
+msgid "301 redirects are permanent and better for SEO. 302 redirects are temporary."
+msgstr "تغییر مسیرهای 301 دائمی هستند و برای سئو بهتر هستند. تغییر مسیرهای 302 موقتی هستند."

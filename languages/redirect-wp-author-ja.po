@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redirect WP Author 1.1.0\n"
+"Report-Msgid-Bugs-To: https://github.com/virtualox/redirect-wp-author\n"
+"POT-Creation-Date: 2025-04-10 12:00+0000\n"
+"PO-Revision-Date: 2025-04-10 12:00+0000\n"
+"Last-Translator: VirtualOx B.V.\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: redirect-wp-author.php:97
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class-settings.php:26
+msgid "Redirect WP Author Settings"
+msgstr "Redirect WP Author 設定"
+
+#: includes/class-settings.php:27
+msgid "Redirect WP Author"
+msgstr "Redirect WP Author"
+
+#: includes/class-settings.php:53
+msgid "Redirect Settings"
+msgstr "リダイレクト設定"
+
+#: includes/class-settings.php:60
+msgid "Redirect Type"
+msgstr "リダイレクトタイプ"
+
+#: includes/class-settings.php:91
+msgid "Configure the settings for the Redirect WP Author plugin."
+msgstr "Redirect WP Author プラグインの設定を構成します。"
+
+#: includes/class-settings.php:101
+msgid "301 - Permanent Redirect"
+msgstr "301 - 恒久的リダイレクト"
+
+#: includes/class-settings.php:102
+msgid "302 - Temporary Redirect"
+msgstr "302 - 一時的リダイレクト"
+
+#: includes/class-settings.php:105
+msgid "301 redirects are permanent and better for SEO. 302 redirects are temporary."
+msgstr "301リダイレクトは恒久的でSEOに優れています。302リダイレクトは一時的です。"
